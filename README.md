@@ -1,4 +1,4 @@
-# Hi there, I'm Pavel (Barney241) 👋
+# Hi there, I'm Pavel (Barney) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Barney241?label=Follow&style=social)](https://github.com/Barney241)
 
@@ -14,7 +14,6 @@ When I'm not architecting robust backends, I'm crafting hobby projects (think ga
 - **Go:** Clean and efficient code that scales. 🐹
 - **Rust:** Fast, modern, and memory-safe systems. 🦀
 - **Python:** Rapid prototyping and scripting. 🐍
-- **Node.js:** Building versatile web solutions. ⚡
 - **Additional Tools:** Shell scripting, Docker, Nix, etc.
 - **Game Development:** Experimenting with Godot and Unity to bring ideas to life. 🎮
 - **AI & Machine Learning:** Pushing boundaries and exploring new possibilities. 🤖
